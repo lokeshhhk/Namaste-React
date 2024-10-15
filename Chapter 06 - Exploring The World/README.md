@@ -26,6 +26,7 @@ Header
   -Nav Items
 Body
   -Search
+  -Top Rated
   -Restaurant Container
   -Restaurant Card
     -Image
